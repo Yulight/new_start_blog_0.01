@@ -1,16 +1,16 @@
 title: Stack Problems
 description: My Personal Stack Problems
-author: Agus Makmun
-github: https://github.com/agusmakmun
+author: Arvin_Hao 
+github: https://github.com/Arvin_Hao
 about: I am freelance developer. Currently doing more in backend, actually in Python and Django.
 urls:
     - text: About Me
       url: /about/
     - text: Github
-      url: https://github.com/agusmakmun
+      url: https://github.com/Arvin_Hao
     - text: XML Feed
       url: /feed.xml
-url: "https://yulight.github.io"
+url: "https://Arvin_Hao.github.io"
 baseurl: ""
 paginate: 20
 per_page: 20
